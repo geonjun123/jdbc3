@@ -1,0 +1,1 @@
+insert into member values ('apple', '1234');
